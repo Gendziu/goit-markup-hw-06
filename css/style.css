@@ -682,7 +682,10 @@ align-items: baseline;
 
 .user-policy{
     color: var(--logo-secondary-color);
+    margin-left: 5px;
 }
+
+
 
 .check-label .checkbox-wrap{
     width: 16px;
